@@ -14,6 +14,7 @@ const users = [
   ['Comcast', 'https://comcast.com'],
   ['Compstak', 'https://compstak.com'],
   ['Disney Streaming Services', 'https://disneyplus.com'],
+  ['Dockovpn', 'https://dockovpn.io'],
   ['Dripower LTD', 'https://zd.drip.im'],
   ['E.ON', 'https://www.eon.com'],
   ['Eloquentix', 'https://eloquentix.com/'],
